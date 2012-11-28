@@ -5,7 +5,7 @@ Workshop de GIT
 
 Se ha creado con intencion de demostracion
 
-Cabecera
+Cabecera principal
 =========
 
 TODO: Poner algo importante aqui
