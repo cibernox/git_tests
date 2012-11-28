@@ -1,7 +1,7 @@
-git_tests
+git_tests!!!
 =========
 
-workshop de git
+Workshop de GIT
 
 Se ha creado con intencion de demostracion
 
